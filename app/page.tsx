@@ -1,5 +1,3 @@
-File 1: app/page.tsx (Main Application)
-
 'use client';
 
 import { useState, useEffect, useRef } from 'react';
